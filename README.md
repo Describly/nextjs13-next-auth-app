@@ -1,7 +1,7 @@
 # NextJS(v13.4) NextAuth - with App Router
 
 ### Video Tutorial Link
-[Click here](https://youtu.be/z3nwf7wGdUw)
+[Click here](https://youtu.be/eoPpSOY2pjQ)
 
 ### Info
 In this project we will integrate the below api with `next-auth`
@@ -18,7 +18,7 @@ In this project we will integrate the below api with `next-auth`
 - Run `npm install` to install the dependencies 
 - Watch the video totorial to setup the backend or follow [this document](https://github.com/Describly/fastapi-auth-custom/tree/nextauth-app)
 - Run `npm run dev` to start the development server and open [http://localhost:3000](http://localhost:3000)
-- To watch the Video Tutotial [click here]()
+- To watch the Video Tutotial [click here](https://youtu.be/eoPpSOY2pjQ)
 
 
 #### **** Thank You ****
