@@ -17,7 +17,7 @@ In this project we will integrate the below api with `next-auth`
 - Navigate to the project folder using Terminal/Power Shell
 - Run `npm install` to install the dependencies 
 - Watch the video totorial to setup the backend or follow [this document](https://github.com/Describly/fastapi-auth-custom/tree/nextauth-app)
-- Run `npm run dev` to start the development server
+- Run `npm run dev` to start the development server and open [http://localhost:3000](http://localhost:3000)
 - To watch the Video Tutotial [click here]()
 
 
